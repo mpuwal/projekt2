@@ -1,1 +1,3 @@
+
 A to komentarz z brach master
+To jest plik dodany w branch: testing
